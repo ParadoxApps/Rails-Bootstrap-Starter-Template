@@ -1,5 +1,5 @@
-# My Insurance Sucks
+# Rails/Bootstrap Starter Template
 
-[*My Insurance Sucks*](http://myinsurancesucks.com) is an site/app that spreads awareness for MediShare, the best alternative for health coverage.
+This is a start template that gives a headstart for getting a rails app up and running with Bootstrap, SASS, Font Awesome, Postgres Production Database, and Home/Interior Page Templates.
 
-by [Ty Richards](http://tyrichards.com)
+by [Paradox](http://paradoxcreative.com)
